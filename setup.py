@@ -1,4 +1,4 @@
-"""A setuptools based setup module.
+"""A setuptools based  module.
 
 See:
 https://packaging.python.org/guides/distributing-packages-using-setuptools/
